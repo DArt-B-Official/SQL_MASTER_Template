@@ -1,4 +1,4 @@
-# SQL_MASTER_Template
+<h1 align="center">SQL MASTER Template</h1>
 
 **SQL_MASTER 정규과제 템플릿**입니다.  
 이 템플릿은 다트비 6기에서 매주 주어지는 SQL MASTER 정규 과제를 정리하고 제출하기 위한 기본 템플릿을 제공합니다.  
